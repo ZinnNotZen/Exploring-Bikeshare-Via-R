@@ -98,32 +98,13 @@ A pre-rendered version of a sample run is also included as `Explore_bikeshare_da
 
 ## Sample Output
 
-For a given city/month/day selection, the tool prints a structured summary, for example:
+**Most Popular Motn to Rent a Bike** 
 
-```
-Calculating The Most Frequent Times of Travel...
-  Most common month: June
-  Most common day of week: Wednesday
-  Most common start hour: 17 (5 PM)
+<img width="753" height="762" alt="Screenshot 2026-06-30 at 5 32 47 PM" src="https://github.com/user-attachments/assets/e5d0791e-87fb-4418-867d-2d28956f38d8" />
 
-Calculating The Most Popular Stations and Trip...
-  Most common start station: Streeter Dr & Grand Ave
-  Most common end station: Clinton St & Washington Blvd
-  Most common trip: Streeter Dr & Grand Ave -> Clinton St & Washington Blvd
+**Average Trip Duration for each City**
 
-Calculating Trip Duration...
-  Total travel time: 1,234,567 seconds
-  Average travel time: 845 seconds
-
-Calculating User Stats...
-  User types: Subscriber (X), Customer (Y)
-  Gender counts: Male (X), Female (Y)     [Chicago/NYC only]
-  Earliest birth year: 1936               [Chicago/NYC only]
-  Most recent birth year: 2014            [Chicago/NYC only]
-  Most common birth year: 1989            [Chicago/NYC only]
-```
-
-*(Replace the placeholder values above with your actual notebook output, or add a screenshot of a run for a stronger visual.)*
+<img width="576" height="215" alt="Screenshot 2026-06-30 at 5 33 28 PM" src="https://github.com/user-attachments/assets/3b9ec30d-5fa2-433d-ab30-5309ef2b8989" />
 
 ---
 
